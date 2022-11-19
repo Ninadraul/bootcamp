@@ -1,0 +1,12 @@
+ 1) Filter pdf docx and jpeg files
+
+
+ 2)find only name of pdf docx and jpeg
+ 
+ 3)Create a new folder as backup
+
+ 4)create new folder with same name as pdf docx and jpeg in backup folder
+
+ 5)create new folder a b and c in pdf docx and jpeg folders
+
+ 6)copy pdf docx and jpeg files in specific folders
